@@ -75,6 +75,8 @@ jobs:
             ${{ runner.os }}-gatsby-build-
       - name: Install dependencies
         run: ${{ steps.detect-package-manager.outputs.manager }} ${{ steps.detect-package-manager.outputs.command }}
+      - name: Update Browserslist database
+        run: npx browserslist@latest --update-db
       - name: Build with Gatsby
         env:
           PREFIX_PATHS: 'true'
