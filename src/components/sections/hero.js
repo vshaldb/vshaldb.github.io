@@ -66,8 +66,7 @@ const Hero = () => {
     <>
       <p>
         I’m a Computer Science Graduate interning as DevOps Engineer in Synopsys India (Ends Soon).
-        Currently, I’m looking for opportunities to work on cloud native projects (preferbly SaaS
-        product) in DevOps domain.
+        Currently, I’m looking for opportunities to work on cloud native projects in DevOps domain.
       </p>
     </>
   );
