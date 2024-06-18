@@ -144,7 +144,7 @@ const About = () => {
             <p>
               Hello! My name is Vishal Dangudubiyyapu, and I enjoy building &amp; deploying large
               applications on the cloud. My interest in the cloud started back in university when I
-              was enrolled in AWS to begin with cloud computing Later, I completed Application
+              was enrolled in AWS to begin with cloud computing. Later, I completed Application
               Development and Deployment Architecture course, in which I learned about shipping
               applications on Docker.
             </p>
