@@ -13,11 +13,9 @@ const IconLogo = () => (
           strokeLinejoin="round"
           points="39 0 0 22 0 67 39 90 78 68 78 23"
         />
+        <path id="V" d="M33 30 L39 50 L45 30 L51 30 L42 61 L36 61 L27 30 Z" fill="currentColor" />
       </g>
     </g>
-    <text x="28" y="65" fill="currentColor" fontSize="50px" fontFamily="Consolas, serif">
-      V
-    </text>
   </svg>
 );
 
